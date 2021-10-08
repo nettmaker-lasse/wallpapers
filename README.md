@@ -10,6 +10,10 @@ Started out as a one time thing, but over time I decided to keep this up and mak
 
 ## 🏞 Wallpapers
 
+**October 2021**
+![Wallpaper of October 2021](https://github.com/nettmaker-lasse/wallpapers/blob/main/October%202021/October%20-%202021%20-%20landscape.jpg?raw=true)
+<br/>
+
 **September 2021**
 ![Wallpaper of September 2021](https://github.com/nettmaker-lasse/wallpapers/blob/main/September%202021/September%20-%202021%20-%20landscape.jpg?raw=true)
 <br/>
